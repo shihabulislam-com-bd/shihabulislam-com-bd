@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Advanced JavaScript, REST APIs, Facebook Graph API & Plugin Development**
 - 💞️ I’m looking to collaborate on **Open Source Plugins, WooCommerce Tools & Automation Scripts**
 - 📫 How to reach me:  
-  🔗 [Website](https://shihabulislam.com.bd) | ✉️ shihabulislamcse@gmail.com
+  🔗 [Website](https://shihabulislam.com.bd) | ✉️ shihabulislam.com.bd@gmail.com
 
 ---
 
