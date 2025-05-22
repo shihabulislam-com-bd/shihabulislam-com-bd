@@ -31,7 +31,7 @@
 
 - 🔹 [Donation Form Plugin (UddoktaPay)](https://github.com/shihabulislam-com-bd/donation-form-by-uddoktapay) – A secure donation form with payment gateway integration.
 - 🔹 [WooCommerce Partial Payment System](#) *(Coming Soon)* – Allow pre-orders with partial payments.
-- 🔹 [Chrome Extension: Facebook Card Autofill](#) *(Private Tool)* – Autofills Facebook billing forms with random card data.
+- 🔹 [Chrome Extension: Facebook Card Autofill](https://github.com/shihabulislam-com-bd/card-autofill-extension) *(Premium Tool)* – Autofills Facebook billing forms with random card data.
 
 ---
 
